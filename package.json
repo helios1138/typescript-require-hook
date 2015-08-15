@@ -1,0 +1,19 @@
+{
+  "name": "typescript-require-hook",
+  "version": "1.0.0",
+  "description": "typescript require hook",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helios1138/typescript-require-hook.git"
+  },
+  "author": "Helios <revan.den@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helios1138/typescript-require-hook/issues"
+  },
+  "homepage": "https://github.com/helios1138/typescript-require-hook#readme",
+  "dependencies": {
+    "typescript": "^1.5.3"
+  }
+}
